@@ -28,3 +28,4 @@ function test(states) {
 var visited = [];
 var states = ["A", "DIRTY", "DIRTY"];
 test(states);
+
